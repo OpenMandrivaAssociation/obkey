@@ -43,3 +43,10 @@ install -m 0755 misc/obkey.desktop %{buildroot}%{_datadir}/applications/
 %{py_puresitedir}/obkey-1.0-py2.7.egg-info
 %{py_puresitedir}/obkey_classes.py
 
+
+
+%changelog
+* Tue May 29 2012 Matthew Dawkins <mattydaw@mandriva.org> 1.0-1
++ Revision: 801167
+- imported package obkey
+
