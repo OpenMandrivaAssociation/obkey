@@ -1,7 +1,7 @@
 Summary:	Openbox Key Editor
 Name:		obkey
 Version:	1.0
-Release:	1
+Release:	2
 License:	MIT
 Group:		Editors
 URL:		http://code.google.com/p/obkey/
