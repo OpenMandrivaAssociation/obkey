@@ -4,7 +4,7 @@ Version:	1.0
 Release:	2
 License:	MIT
 Group:		Editors
-URL:		http://code.google.com/p/obkey/
+URL:		https://code.google.com/p/obkey/
 Source0:	http://obkey.googlecode.com/files/%{name}-%{version}.tar.gz
 BuildArch:	noarch
 
